@@ -36,20 +36,4 @@ class DetailViewModel(private val repository: MahasiswaRepository) : ViewModel()
             }
         }
     }
-
-    fun deleteMahasiswa(nim: String) {
-        viewModelScope.launch {
-            _uiState.value = DetailUiState.Loading
-            try {
-                repository.deleteMahasiswa(nim) // Call delete method in the repository
-                _uiState.value = DetailUiState.Deleted
-            } catch (e: IOException) {
-                e.printStackTrace()
-                _uiState.value = DetailUiState.Error
-            } catch (e: HttpException) {
-                e.printStackTrace()
-                _uiState.value = DetailUiState.Error
-            }
-        }
-    }
 }
