@@ -46,7 +46,7 @@ import com.example.p8mysqldatainternet.ui.ViewModel.PenyediaViewModel
 
 object DestinasiHome : DestinasiNavigasi {
     override val route = "home"
-    override val titleRes = "Home Mhs"
+    override val titleRes = "Home Mahasiswa"
 }
 
 @OptIn(ExperimentalMaterial3Api::class)
