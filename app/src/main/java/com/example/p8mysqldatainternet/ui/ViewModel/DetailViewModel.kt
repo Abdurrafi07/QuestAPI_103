@@ -13,7 +13,6 @@ import java.io.IOException
 sealed class DetailUiState {
     object Loading : DetailUiState()
     data class Success(val mahasiswa: Mahasiswa) : DetailUiState()
-    object Deleted : DetailUiState() // New state for delete success
     object Error : DetailUiState()
 }
 
