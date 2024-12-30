@@ -30,7 +30,10 @@ fun PengelolaHalaman(navController: NavHostController = rememberNavController(),
                 navigateToItemEntry = {
                     navController.navigate(DestinasiEntry.route)
                 },
-                onDetailClick = {
+                onDetailClick = { nim ->
+                    if (nim.isNotEmpty()){
+                        navController.navigate("${DestinasiDetail.route}/$nim")
+                    }
 
                 }
             )
