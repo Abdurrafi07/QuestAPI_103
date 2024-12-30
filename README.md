@@ -16,3 +16,6 @@ Halaman Detail Mahasiswa setelah Update Mahasiswa/Data
 ![image](https://github.com/user-attachments/assets/ad04b7b8-fd5c-49d9-8aed-5335926fe5de)
 Halaman Home Mahasiswa setelah Hapus Data / Fungsi Delete
 ![image](https://github.com/user-attachments/assets/b759e8ea-3d7e-4caa-8f60-3b65cf63e36b)
+Database
+![image](https://github.com/user-attachments/assets/ee09a290-824d-42f8-b0f8-945de88b0ec7)
+
