@@ -19,3 +19,18 @@ Halaman Home Mahasiswa setelah Hapus Data / Fungsi Delete
 Database
 ![image](https://github.com/user-attachments/assets/ee09a290-824d-42f8-b0f8-945de88b0ec7)
 
+UCP
+HomeView
+![image](https://github.com/user-attachments/assets/a89b9b0c-5555-4410-a63f-3447556bf590)
+
+
+InsertView
+![image](https://github.com/user-attachments/assets/0550f7cc-46c9-4070-8ef6-4fdbf7bca18d)
+
+![image](https://github.com/user-attachments/assets/daca9532-d4b0-4a1d-94f7-b1ca2089929e)
+
+Database
+
+![image](https://github.com/user-attachments/assets/726cdafa-6b65-4f38-9a38-88c30aab5f14)
+
+DetailView
